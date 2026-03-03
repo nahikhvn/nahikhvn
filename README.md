@@ -4,5 +4,6 @@
 2. Math Stuff
 3. Creative endeavor
 4. Read
+5. Learn CC
 
 **Always Learn**
